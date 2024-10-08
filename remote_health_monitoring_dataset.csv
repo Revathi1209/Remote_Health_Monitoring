@@ -1,0 +1,501 @@
+Patient_ID,Heart_Rate,Blood_Pressure,Oxygen_Saturation,Temperature,Respiratory_Rate,Location,Activity_Level,Time,Attack_Flag
+1001,61,122/83,94,102.5,25,Evacuation Point,Low,2024-01-01 00:00:00,Injection Attack
+1002,78,110/69,96,103.4,13,Evacuation Point,Low,2024-01-01 01:00:00,Quantum Attack
+1003,117,132/88,94,98.9,12,Evacuation Point,Low,2024-01-01 02:00:00,Quantum Attack
+1004,83,122/88,92,97.8,13,Field Hospital,Moderate,2024-01-01 03:00:00,Eavesdropping
+1005,74,137/65,95,97.5,27,Evacuation Point,Moderate,2024-01-01 04:00:00,Eavesdropping
+1006,80,129/69,98,103.3,28,Evacuation Point,High,2024-01-01 05:00:00,Data Manipulation
+1007,73,98/86,92,100.8,28,Field Hospital,Moderate,2024-01-01 06:00:00,Injection Attack
+1008,86,116/86,91,97.8,22,Evacuation Point,High,2024-01-01 07:00:00,Data Manipulation
+1009,101,102/66,93,97.3,15,Evacuation Point,Moderate,2024-01-01 08:00:00,Quantum Attack
+1010,108,96/65,91,99.4,19,Evacuation Point,Moderate,2024-01-01 09:00:00,Eavesdropping
+1011,86,114/62,95,103.1,29,Evacuation Point,High,2024-01-01 10:00:00,Injection Attack
+1012,95,135/61,95,98.5,19,Evacuation Point,Low,2024-01-01 11:00:00,Eavesdropping
+1013,76,124/85,91,103.1,21,Front Line,High,2024-01-01 12:00:00,Injection Attack
+1014,81,126/68,95,98.1,22,Evacuation Point,High,2024-01-01 13:00:00,Injection Attack
+1015,110,139/76,98,101.3,19,Field Hospital,High,2024-01-01 14:00:00,Injection Attack
+1016,97,104/84,96,98.1,25,Front Line,High,2024-01-01 15:00:00,Injection Attack
+1017,73,125/85,96,100.7,13,Field Hospital,Low,2024-01-01 16:00:00,Quantum Attack
+1018,66,119/73,95,102.6,26,Evacuation Point,High,2024-01-01 17:00:00,Quantum Attack
+1019,72,130/86,97,100.4,16,Front Line,Moderate,2024-01-01 18:00:00,Data Manipulation
+1020,107,94/83,99,97.4,27,Evacuation Point,Moderate,2024-01-01 19:00:00,Eavesdropping
+1021,71,91/83,99,100.5,13,Field Hospital,Moderate,2024-01-01 20:00:00,Quantum Attack
+1022,63,104/75,96,98.8,14,Field Hospital,High,2024-01-01 21:00:00,Data Manipulation
+1023,60,129/84,93,103.7,18,Front Line,Low,2024-01-01 22:00:00,Quantum Attack
+1024,73,98/80,94,100.1,12,Field Hospital,Low,2024-01-01 23:00:00,Quantum Attack
+1025,114,132/65,90,103.1,22,Front Line,Low,2024-01-02 00:00:00,Injection Attack
+1026,91,118/89,91,98.8,28,Evacuation Point,High,2024-01-02 01:00:00,Quantum Attack
+1027,87,126/75,92,101.3,13,Field Hospital,High,2024-01-02 02:00:00,Data Manipulation
+1028,118,104/73,90,103.8,28,Front Line,High,2024-01-02 03:00:00,Data Manipulation
+1029,110,112/70,96,99.8,23,Evacuation Point,Moderate,2024-01-02 04:00:00,Injection Attack
+1030,114,133/67,94,100.6,13,Evacuation Point,High,2024-01-02 05:00:00,Quantum Attack
+1031,103,104/62,98,97.4,19,Field Hospital,High,2024-01-02 06:00:00,Eavesdropping
+1032,93,119/71,90,100.5,19,Front Line,Low,2024-01-02 07:00:00,Eavesdropping
+1033,118,92/78,96,99.1,12,Field Hospital,High,2024-01-02 08:00:00,Eavesdropping
+1034,100,120/69,99,98.5,20,Field Hospital,High,2024-01-02 09:00:00,Data Manipulation
+1035,115,95/77,98,100.7,18,Front Line,Low,2024-01-02 10:00:00,Injection Attack
+1036,118,137/89,94,99.9,21,Front Line,High,2024-01-02 11:00:00,Quantum Attack
+1037,100,97/69,92,98.0,29,Front Line,High,2024-01-02 12:00:00,Injection Attack
+1038,92,121/67,96,99.7,24,Front Line,High,2024-01-02 13:00:00,Injection Attack
+1039,68,139/85,91,98.2,29,Evacuation Point,Low,2024-01-02 14:00:00,Data Manipulation
+1040,85,93/63,93,103.0,28,Front Line,High,2024-01-02 15:00:00,Quantum Attack
+1041,88,103/88,98,98.9,21,Evacuation Point,High,2024-01-02 16:00:00,Eavesdropping
+1042,72,114/77,90,102.9,24,Field Hospital,Moderate,2024-01-02 17:00:00,Injection Attack
+1043,98,107/84,94,98.5,16,Evacuation Point,High,2024-01-02 18:00:00,Eavesdropping
+1044,66,121/76,95,101.3,22,Evacuation Point,High,2024-01-02 19:00:00,Data Manipulation
+1045,82,92/79,93,101.9,16,Front Line,High,2024-01-02 20:00:00,Data Manipulation
+1046,102,123/75,95,98.1,23,Evacuation Point,Moderate,2024-01-02 21:00:00,Data Manipulation
+1047,90,108/69,92,98.1,25,Front Line,Low,2024-01-02 22:00:00,Eavesdropping
+1048,78,107/76,90,98.1,25,Evacuation Point,Low,2024-01-02 23:00:00,Quantum Attack
+1049,68,128/81,96,100.2,24,Evacuation Point,High,2024-01-03 00:00:00,Data Manipulation
+1050,100,128/74,91,97.2,29,Evacuation Point,High,2024-01-03 01:00:00,Eavesdropping
+1051,74,116/72,94,98.3,20,Evacuation Point,High,2024-01-03 02:00:00,Eavesdropping
+1052,109,119/88,95,97.3,16,Front Line,High,2024-01-03 03:00:00,Quantum Attack
+1053,65,124/77,96,103.0,22,Front Line,High,2024-01-03 04:00:00,Injection Attack
+1054,108,134/76,92,103.4,13,Front Line,Moderate,2024-01-03 05:00:00,Eavesdropping
+1055,82,136/64,90,98.4,16,Evacuation Point,Low,2024-01-03 06:00:00,Data Manipulation
+1056,115,126/71,97,103.6,21,Field Hospital,Moderate,2024-01-03 07:00:00,Quantum Attack
+1057,70,138/87,92,99.7,20,Front Line,Moderate,2024-01-03 08:00:00,Injection Attack
+1058,64,102/81,96,98.4,28,Field Hospital,High,2024-01-03 09:00:00,Data Manipulation
+1059,65,99/69,91,103.6,20,Front Line,High,2024-01-03 10:00:00,Eavesdropping
+1060,84,90/73,96,101.2,25,Field Hospital,High,2024-01-03 11:00:00,Data Manipulation
+1061,106,137/87,93,100.3,22,Evacuation Point,High,2024-01-03 12:00:00,Injection Attack
+1062,110,132/83,94,102.4,16,Field Hospital,High,2024-01-03 13:00:00,Quantum Attack
+1063,100,101/63,98,100.1,27,Field Hospital,High,2024-01-03 14:00:00,Injection Attack
+1064,63,126/88,93,101.5,28,Front Line,Low,2024-01-03 15:00:00,Data Manipulation
+1065,69,104/81,96,101.9,29,Evacuation Point,Moderate,2024-01-03 16:00:00,Injection Attack
+1066,67,104/71,97,98.3,13,Evacuation Point,Low,2024-01-03 17:00:00,Quantum Attack
+1067,95,123/67,99,100.1,27,Front Line,Moderate,2024-01-03 18:00:00,Quantum Attack
+1068,98,102/67,98,97.6,19,Field Hospital,Low,2024-01-03 19:00:00,Injection Attack
+1069,116,119/63,94,97.7,20,Evacuation Point,High,2024-01-03 20:00:00,Eavesdropping
+1070,66,123/74,94,102.2,20,Evacuation Point,Moderate,2024-01-03 21:00:00,Data Manipulation
+1071,83,134/68,91,99.5,29,Front Line,Moderate,2024-01-03 22:00:00,Eavesdropping
+1072,112,123/80,95,101.3,17,Front Line,Moderate,2024-01-03 23:00:00,Quantum Attack
+1073,70,121/82,98,98.1,25,Front Line,High,2024-01-04 00:00:00,Quantum Attack
+1074,77,94/69,96,99.8,20,Field Hospital,High,2024-01-04 01:00:00,Quantum Attack
+1075,63,106/67,95,101.7,26,Evacuation Point,Moderate,2024-01-04 02:00:00,Data Manipulation
+1076,112,123/72,99,101.1,24,Front Line,Moderate,2024-01-04 03:00:00,Eavesdropping
+1077,74,110/62,95,100.3,15,Front Line,Moderate,2024-01-04 04:00:00,Data Manipulation
+1078,61,106/82,99,98.1,15,Evacuation Point,Moderate,2024-01-04 05:00:00,Injection Attack
+1079,96,94/69,91,99.8,21,Front Line,High,2024-01-04 06:00:00,Eavesdropping
+1080,98,101/89,91,103.7,21,Field Hospital,Moderate,2024-01-04 07:00:00,Quantum Attack
+1081,91,126/69,91,99.8,29,Front Line,Moderate,2024-01-04 08:00:00,Quantum Attack
+1082,104,102/88,96,102.0,29,Front Line,Moderate,2024-01-04 09:00:00,Data Manipulation
+1083,65,135/84,95,97.2,29,Field Hospital,Low,2024-01-04 10:00:00,Data Manipulation
+1084,71,111/89,96,101.2,22,Field Hospital,Moderate,2024-01-04 11:00:00,Quantum Attack
+1085,96,124/74,98,101.9,29,Field Hospital,Low,2024-01-04 12:00:00,Injection Attack
+1086,99,112/75,95,101.5,15,Front Line,High,2024-01-04 13:00:00,Injection Attack
+1087,87,131/89,97,101.8,19,Evacuation Point,High,2024-01-04 14:00:00,Data Manipulation
+1088,62,123/76,90,101.3,18,Evacuation Point,High,2024-01-04 15:00:00,Injection Attack
+1089,89,126/76,93,103.1,15,Field Hospital,Low,2024-01-04 16:00:00,Data Manipulation
+1090,83,103/62,92,101.1,21,Field Hospital,High,2024-01-04 17:00:00,Injection Attack
+1091,95,92/63,95,101.9,24,Field Hospital,Moderate,2024-01-04 18:00:00,Data Manipulation
+1092,64,104/71,99,99.1,17,Front Line,Moderate,2024-01-04 19:00:00,Injection Attack
+1093,82,103/77,97,102.0,14,Front Line,Low,2024-01-04 20:00:00,Quantum Attack
+1094,68,101/75,90,102.0,12,Field Hospital,Low,2024-01-04 21:00:00,Injection Attack
+1095,116,90/83,96,100.3,20,Front Line,Moderate,2024-01-04 22:00:00,Quantum Attack
+1096,66,97/71,98,103.9,21,Field Hospital,Low,2024-01-04 23:00:00,Eavesdropping
+1097,77,99/60,91,98.6,25,Field Hospital,Low,2024-01-05 00:00:00,Quantum Attack
+1098,104,132/77,98,97.8,27,Field Hospital,Low,2024-01-05 01:00:00,Eavesdropping
+1099,94,91/74,91,102.8,25,Evacuation Point,Low,2024-01-05 02:00:00,Injection Attack
+1100,106,97/70,99,103.9,27,Field Hospital,Low,2024-01-05 03:00:00,Eavesdropping
+1101,80,99/72,97,100.5,25,Front Line,Low,2024-01-05 04:00:00,Injection Attack
+1102,71,92/73,90,97.3,23,Front Line,Low,2024-01-05 05:00:00,Quantum Attack
+1103,62,129/79,95,100.5,12,Front Line,Moderate,2024-01-05 06:00:00,Eavesdropping
+1104,96,115/81,91,100.4,19,Evacuation Point,Moderate,2024-01-05 07:00:00,Data Manipulation
+1105,88,127/79,98,99.2,20,Field Hospital,Low,2024-01-05 08:00:00,Injection Attack
+1106,76,93/68,97,100.5,17,Evacuation Point,High,2024-01-05 09:00:00,Data Manipulation
+1107,78,118/65,90,98.8,12,Field Hospital,Low,2024-01-05 10:00:00,Eavesdropping
+1108,79,119/60,97,97.0,25,Evacuation Point,Moderate,2024-01-05 11:00:00,Data Manipulation
+1109,69,108/75,94,98.5,29,Front Line,Low,2024-01-05 12:00:00,Quantum Attack
+1110,88,117/72,92,103.1,12,Field Hospital,Moderate,2024-01-05 13:00:00,Quantum Attack
+1111,105,121/63,98,99.9,17,Front Line,Low,2024-01-05 14:00:00,Eavesdropping
+1112,97,94/85,99,102.2,29,Evacuation Point,High,2024-01-05 15:00:00,Eavesdropping
+1113,118,99/87,95,99.5,29,Field Hospital,Moderate,2024-01-05 16:00:00,Injection Attack
+1114,117,117/79,97,98.3,14,Evacuation Point,Moderate,2024-01-05 17:00:00,Eavesdropping
+1115,96,95/72,93,97.8,29,Field Hospital,Moderate,2024-01-05 18:00:00,Quantum Attack
+1116,66,100/62,99,100.9,13,Field Hospital,Moderate,2024-01-05 19:00:00,Eavesdropping
+1117,81,96/87,98,98.5,27,Field Hospital,Moderate,2024-01-05 20:00:00,Injection Attack
+1118,103,115/62,94,98.9,25,Evacuation Point,Moderate,2024-01-05 21:00:00,Quantum Attack
+1119,102,97/74,91,99.5,13,Evacuation Point,High,2024-01-05 22:00:00,Data Manipulation
+1120,79,119/74,96,102.7,25,Front Line,Low,2024-01-05 23:00:00,Injection Attack
+1121,64,108/60,96,100.4,20,Field Hospital,Low,2024-01-06 00:00:00,Injection Attack
+1122,72,133/86,93,103.3,16,Front Line,Low,2024-01-06 01:00:00,Eavesdropping
+1123,110,137/79,92,102.8,20,Front Line,High,2024-01-06 02:00:00,Eavesdropping
+1124,71,108/86,96,99.5,16,Field Hospital,Moderate,2024-01-06 03:00:00,Injection Attack
+1125,76,95/81,90,99.0,29,Evacuation Point,Moderate,2024-01-06 04:00:00,Injection Attack
+1126,103,103/61,94,100.6,15,Field Hospital,Low,2024-01-06 05:00:00,Quantum Attack
+1127,84,122/78,91,101.8,28,Front Line,Low,2024-01-06 06:00:00,Quantum Attack
+1128,101,128/70,91,100.1,17,Field Hospital,Moderate,2024-01-06 07:00:00,Injection Attack
+1129,116,130/73,93,101.5,26,Field Hospital,Moderate,2024-01-06 08:00:00,Eavesdropping
+1130,105,100/89,92,100.6,22,Evacuation Point,High,2024-01-06 09:00:00,Data Manipulation
+1131,74,121/70,91,100.6,23,Front Line,Low,2024-01-06 10:00:00,Data Manipulation
+1132,66,134/61,93,98.1,13,Evacuation Point,Moderate,2024-01-06 11:00:00,Injection Attack
+1133,67,124/70,96,97.3,21,Front Line,Moderate,2024-01-06 12:00:00,Injection Attack
+1134,86,139/74,90,97.3,26,Evacuation Point,Moderate,2024-01-06 13:00:00,Quantum Attack
+1135,109,137/83,90,99.2,27,Evacuation Point,Low,2024-01-06 14:00:00,Data Manipulation
+1136,91,125/77,99,103.9,17,Front Line,Low,2024-01-06 15:00:00,Quantum Attack
+1137,66,105/64,94,100.7,25,Front Line,High,2024-01-06 16:00:00,Eavesdropping
+1138,65,90/61,92,97.9,19,Front Line,Low,2024-01-06 17:00:00,Quantum Attack
+1139,97,127/76,91,100.3,20,Field Hospital,Low,2024-01-06 18:00:00,Injection Attack
+1140,76,113/83,97,99.2,15,Field Hospital,Moderate,2024-01-06 19:00:00,Injection Attack
+1141,100,113/74,96,102.7,27,Front Line,High,2024-01-06 20:00:00,Quantum Attack
+1142,112,100/76,99,100.6,22,Field Hospital,Moderate,2024-01-06 21:00:00,Data Manipulation
+1143,102,115/68,98,100.2,26,Front Line,Low,2024-01-06 22:00:00,Eavesdropping
+1144,64,131/67,94,97.9,19,Front Line,High,2024-01-06 23:00:00,Quantum Attack
+1145,107,125/76,95,100.7,15,Field Hospital,Moderate,2024-01-07 00:00:00,Data Manipulation
+1146,97,138/85,90,103.6,15,Field Hospital,High,2024-01-07 01:00:00,Quantum Attack
+1147,112,106/77,91,98.1,21,Front Line,High,2024-01-07 02:00:00,Injection Attack
+1148,92,112/81,99,98.3,25,Field Hospital,High,2024-01-07 03:00:00,Data Manipulation
+1149,113,91/71,99,98.7,27,Field Hospital,High,2024-01-07 04:00:00,Eavesdropping
+1150,94,111/85,96,103.0,13,Front Line,Low,2024-01-07 05:00:00,Data Manipulation
+1151,96,128/73,91,100.7,27,Evacuation Point,High,2024-01-07 06:00:00,Quantum Attack
+1152,108,110/89,90,103.2,25,Front Line,High,2024-01-07 07:00:00,Quantum Attack
+1153,99,90/83,94,98.2,13,Front Line,High,2024-01-07 08:00:00,Injection Attack
+1154,75,110/74,95,97.3,13,Evacuation Point,High,2024-01-07 09:00:00,Data Manipulation
+1155,68,130/85,94,101.7,19,Field Hospital,High,2024-01-07 10:00:00,Injection Attack
+1156,73,114/89,95,98.0,12,Front Line,High,2024-01-07 11:00:00,Injection Attack
+1157,104,97/88,98,103.2,18,Front Line,Low,2024-01-07 12:00:00,Eavesdropping
+1158,110,129/75,97,97.4,12,Evacuation Point,Low,2024-01-07 13:00:00,Quantum Attack
+1159,76,117/70,96,103.5,25,Front Line,High,2024-01-07 14:00:00,Quantum Attack
+1160,114,136/64,99,100.7,25,Evacuation Point,Moderate,2024-01-07 15:00:00,Quantum Attack
+1161,84,91/83,92,98.8,21,Evacuation Point,High,2024-01-07 16:00:00,Data Manipulation
+1162,119,119/70,99,100.3,27,Field Hospital,Moderate,2024-01-07 17:00:00,Data Manipulation
+1163,83,96/86,91,97.2,26,Field Hospital,Low,2024-01-07 18:00:00,Data Manipulation
+1164,76,108/72,94,99.9,14,Front Line,Moderate,2024-01-07 19:00:00,Eavesdropping
+1165,75,110/87,90,97.8,13,Front Line,High,2024-01-07 20:00:00,Eavesdropping
+1166,117,98/61,96,100.6,20,Evacuation Point,Low,2024-01-07 21:00:00,Quantum Attack
+1167,82,91/83,99,99.1,22,Front Line,Moderate,2024-01-07 22:00:00,Quantum Attack
+1168,119,116/76,98,98.1,14,Evacuation Point,Low,2024-01-07 23:00:00,Data Manipulation
+1169,92,127/71,99,100.5,28,Front Line,Moderate,2024-01-08 00:00:00,Injection Attack
+1170,76,112/77,92,100.5,12,Field Hospital,High,2024-01-08 01:00:00,Quantum Attack
+1171,109,136/74,93,98.8,26,Front Line,Low,2024-01-08 02:00:00,Injection Attack
+1172,88,107/70,91,103.8,18,Front Line,Low,2024-01-08 03:00:00,Eavesdropping
+1173,77,119/80,90,98.7,28,Field Hospital,Low,2024-01-08 04:00:00,Eavesdropping
+1174,98,103/75,99,99.9,28,Field Hospital,Moderate,2024-01-08 05:00:00,Eavesdropping
+1175,94,124/73,94,99.0,19,Field Hospital,High,2024-01-08 06:00:00,Eavesdropping
+1176,61,99/76,98,100.1,23,Evacuation Point,Moderate,2024-01-08 07:00:00,Eavesdropping
+1177,83,130/79,94,100.4,22,Field Hospital,Low,2024-01-08 08:00:00,Eavesdropping
+1178,117,102/61,96,101.5,23,Field Hospital,High,2024-01-08 09:00:00,Quantum Attack
+1179,109,102/83,92,98.4,20,Evacuation Point,Low,2024-01-08 10:00:00,Quantum Attack
+1180,68,119/84,99,103.8,12,Evacuation Point,Moderate,2024-01-08 11:00:00,Eavesdropping
+1181,85,118/68,97,98.1,29,Field Hospital,Low,2024-01-08 12:00:00,Injection Attack
+1182,73,124/62,91,103.8,14,Field Hospital,High,2024-01-08 13:00:00,Quantum Attack
+1183,107,120/82,94,101.5,18,Front Line,High,2024-01-08 14:00:00,Quantum Attack
+1184,77,95/83,93,97.1,19,Evacuation Point,High,2024-01-08 15:00:00,Quantum Attack
+1185,101,130/88,94,98.7,20,Front Line,High,2024-01-08 16:00:00,Eavesdropping
+1186,61,98/73,94,97.9,22,Evacuation Point,High,2024-01-08 17:00:00,Injection Attack
+1187,110,93/72,96,104.0,28,Front Line,High,2024-01-08 18:00:00,Data Manipulation
+1188,118,125/71,97,98.6,26,Front Line,Low,2024-01-08 19:00:00,Data Manipulation
+1189,90,123/75,96,103.0,24,Evacuation Point,Moderate,2024-01-08 20:00:00,Data Manipulation
+1190,100,116/86,94,98.0,16,Evacuation Point,Low,2024-01-08 21:00:00,Quantum Attack
+1191,117,135/83,92,103.1,13,Front Line,Moderate,2024-01-08 22:00:00,Data Manipulation
+1192,62,135/79,94,98.9,14,Field Hospital,Moderate,2024-01-08 23:00:00,Injection Attack
+1193,101,105/67,97,99.4,18,Evacuation Point,Low,2024-01-09 00:00:00,Quantum Attack
+1194,75,132/75,95,103.4,13,Field Hospital,Low,2024-01-09 01:00:00,Eavesdropping
+1195,107,103/61,98,100.4,19,Field Hospital,Moderate,2024-01-09 02:00:00,Eavesdropping
+1196,85,116/73,95,101.3,21,Field Hospital,High,2024-01-09 03:00:00,Data Manipulation
+1197,105,132/62,92,100.2,26,Field Hospital,Moderate,2024-01-09 04:00:00,Quantum Attack
+1198,98,105/84,95,99.4,24,Front Line,High,2024-01-09 05:00:00,Injection Attack
+1199,86,128/89,99,100.5,12,Evacuation Point,Moderate,2024-01-09 06:00:00,Data Manipulation
+1200,116,101/87,98,100.4,13,Front Line,High,2024-01-09 07:00:00,Eavesdropping
+1201,103,119/87,92,103.9,22,Field Hospital,Low,2024-01-09 08:00:00,Eavesdropping
+1202,95,131/79,91,102.7,22,Front Line,Low,2024-01-09 09:00:00,Injection Attack
+1203,100,131/81,93,102.2,18,Field Hospital,High,2024-01-09 10:00:00,Data Manipulation
+1204,108,114/66,97,99.6,16,Field Hospital,Moderate,2024-01-09 11:00:00,Data Manipulation
+1205,72,102/73,98,103.7,21,Evacuation Point,High,2024-01-09 12:00:00,Data Manipulation
+1206,73,137/78,95,97.9,21,Field Hospital,Moderate,2024-01-09 13:00:00,Data Manipulation
+1207,119,97/73,91,101.8,24,Field Hospital,Moderate,2024-01-09 14:00:00,Quantum Attack
+1208,86,130/68,99,98.0,20,Front Line,Moderate,2024-01-09 15:00:00,Quantum Attack
+1209,99,124/67,99,97.9,18,Field Hospital,Moderate,2024-01-09 16:00:00,Quantum Attack
+1210,87,108/83,98,100.1,13,Front Line,High,2024-01-09 17:00:00,Data Manipulation
+1211,102,104/63,92,100.6,15,Evacuation Point,Moderate,2024-01-09 18:00:00,Injection Attack
+1212,118,115/68,93,100.8,17,Field Hospital,Moderate,2024-01-09 19:00:00,Data Manipulation
+1213,114,111/67,92,103.0,13,Field Hospital,High,2024-01-09 20:00:00,Injection Attack
+1214,94,98/65,92,98.9,29,Evacuation Point,Low,2024-01-09 21:00:00,Eavesdropping
+1215,63,118/60,94,102.3,26,Field Hospital,Moderate,2024-01-09 22:00:00,Eavesdropping
+1216,63,99/84,92,102.4,13,Evacuation Point,Moderate,2024-01-09 23:00:00,Injection Attack
+1217,97,93/67,97,98.5,21,Front Line,High,2024-01-10 00:00:00,Injection Attack
+1218,113,129/76,90,99.6,17,Front Line,High,2024-01-10 01:00:00,Eavesdropping
+1219,69,93/75,92,97.3,18,Front Line,Moderate,2024-01-10 02:00:00,Data Manipulation
+1220,65,101/68,95,102.9,23,Evacuation Point,Low,2024-01-10 03:00:00,Quantum Attack
+1221,99,110/79,96,100.3,23,Evacuation Point,Moderate,2024-01-10 04:00:00,Quantum Attack
+1222,101,129/86,98,101.4,26,Front Line,Low,2024-01-10 05:00:00,Data Manipulation
+1223,110,98/68,95,97.5,25,Evacuation Point,High,2024-01-10 06:00:00,Eavesdropping
+1224,64,124/78,95,98.8,17,Evacuation Point,Low,2024-01-10 07:00:00,Quantum Attack
+1225,105,139/86,98,101.5,25,Evacuation Point,Low,2024-01-10 08:00:00,Eavesdropping
+1226,64,109/86,91,101.3,18,Evacuation Point,Low,2024-01-10 09:00:00,Eavesdropping
+1227,84,113/66,98,101.0,29,Evacuation Point,Moderate,2024-01-10 10:00:00,Injection Attack
+1228,89,118/67,92,103.8,24,Field Hospital,Moderate,2024-01-10 11:00:00,Eavesdropping
+1229,67,118/78,94,99.3,12,Evacuation Point,Moderate,2024-01-10 12:00:00,Quantum Attack
+1230,82,112/83,97,102.2,19,Front Line,High,2024-01-10 13:00:00,Data Manipulation
+1231,111,103/60,91,100.0,29,Front Line,High,2024-01-10 14:00:00,Data Manipulation
+1232,64,123/82,92,99.8,17,Evacuation Point,Moderate,2024-01-10 15:00:00,Eavesdropping
+1233,71,105/67,97,97.9,19,Front Line,High,2024-01-10 16:00:00,Data Manipulation
+1234,105,119/78,96,101.7,16,Field Hospital,Moderate,2024-01-10 17:00:00,Injection Attack
+1235,119,116/60,90,103.1,23,Field Hospital,High,2024-01-10 18:00:00,Injection Attack
+1236,67,128/88,98,99.1,29,Field Hospital,Low,2024-01-10 19:00:00,Quantum Attack
+1237,92,133/84,99,101.8,15,Field Hospital,Moderate,2024-01-10 20:00:00,Data Manipulation
+1238,71,115/68,96,102.6,18,Evacuation Point,High,2024-01-10 21:00:00,Data Manipulation
+1239,71,117/60,95,103.1,24,Front Line,Low,2024-01-10 22:00:00,Data Manipulation
+1240,117,116/85,94,98.5,12,Field Hospital,Moderate,2024-01-10 23:00:00,Data Manipulation
+1241,107,112/76,93,97.8,21,Evacuation Point,Moderate,2024-01-11 00:00:00,Injection Attack
+1242,113,113/89,90,99.5,26,Field Hospital,Low,2024-01-11 01:00:00,Eavesdropping
+1243,90,133/60,94,101.2,17,Field Hospital,High,2024-01-11 02:00:00,Injection Attack
+1244,93,131/72,92,103.0,27,Evacuation Point,Moderate,2024-01-11 03:00:00,Data Manipulation
+1245,78,139/85,91,100.9,27,Evacuation Point,Moderate,2024-01-11 04:00:00,Data Manipulation
+1246,94,110/70,96,103.3,20,Field Hospital,Low,2024-01-11 05:00:00,Data Manipulation
+1247,107,123/72,98,101.5,19,Front Line,Moderate,2024-01-11 06:00:00,Eavesdropping
+1248,115,105/83,94,103.0,27,Front Line,High,2024-01-11 07:00:00,Injection Attack
+1249,74,139/80,96,99.9,22,Front Line,Moderate,2024-01-11 08:00:00,Data Manipulation
+1250,70,122/87,92,97.7,24,Front Line,High,2024-01-11 09:00:00,Data Manipulation
+1251,78,115/84,96,100.9,19,Evacuation Point,High,2024-01-11 10:00:00,Data Manipulation
+1252,86,110/87,99,102.7,19,Front Line,Moderate,2024-01-11 11:00:00,Quantum Attack
+1253,73,135/80,96,98.9,18,Front Line,Moderate,2024-01-11 12:00:00,Quantum Attack
+1254,92,118/60,95,97.6,12,Evacuation Point,Moderate,2024-01-11 13:00:00,Eavesdropping
+1255,109,118/84,93,102.0,22,Evacuation Point,Moderate,2024-01-11 14:00:00,Eavesdropping
+1256,64,110/66,94,101.4,14,Evacuation Point,Moderate,2024-01-11 15:00:00,Injection Attack
+1257,118,109/82,97,99.7,23,Evacuation Point,Low,2024-01-11 16:00:00,Eavesdropping
+1258,64,134/80,93,100.1,16,Field Hospital,High,2024-01-11 17:00:00,Injection Attack
+1259,97,100/67,93,97.2,19,Field Hospital,High,2024-01-11 18:00:00,Data Manipulation
+1260,76,106/69,92,101.8,26,Front Line,Moderate,2024-01-11 19:00:00,Injection Attack
+1261,114,108/85,94,97.6,13,Evacuation Point,High,2024-01-11 20:00:00,Eavesdropping
+1262,80,135/86,99,101.3,12,Field Hospital,High,2024-01-11 21:00:00,Data Manipulation
+1263,81,111/84,93,101.1,19,Field Hospital,High,2024-01-11 22:00:00,Eavesdropping
+1264,98,107/64,96,103.9,19,Evacuation Point,Moderate,2024-01-11 23:00:00,Data Manipulation
+1265,80,133/76,97,103.7,16,Front Line,Moderate,2024-01-12 00:00:00,Eavesdropping
+1266,79,121/62,93,103.4,15,Front Line,High,2024-01-12 01:00:00,Injection Attack
+1267,97,94/78,91,99.4,28,Evacuation Point,High,2024-01-12 02:00:00,Eavesdropping
+1268,76,121/87,97,98.1,25,Front Line,High,2024-01-12 03:00:00,Quantum Attack
+1269,69,98/87,97,99.4,22,Evacuation Point,Moderate,2024-01-12 04:00:00,Data Manipulation
+1270,106,128/62,90,103.8,21,Field Hospital,Low,2024-01-12 05:00:00,Data Manipulation
+1271,113,108/73,96,104.0,25,Field Hospital,High,2024-01-12 06:00:00,Injection Attack
+1272,116,124/78,94,102.6,19,Field Hospital,Low,2024-01-12 07:00:00,Data Manipulation
+1273,89,91/83,97,97.9,14,Front Line,Low,2024-01-12 08:00:00,Quantum Attack
+1274,89,92/74,98,99.6,25,Field Hospital,High,2024-01-12 09:00:00,Eavesdropping
+1275,105,114/75,90,103.5,24,Field Hospital,High,2024-01-12 10:00:00,Data Manipulation
+1276,75,107/63,93,97.5,20,Field Hospital,Moderate,2024-01-12 11:00:00,Quantum Attack
+1277,98,106/65,96,98.7,17,Front Line,Low,2024-01-12 12:00:00,Eavesdropping
+1278,96,128/73,98,101.2,24,Field Hospital,High,2024-01-12 13:00:00,Quantum Attack
+1279,92,94/87,98,103.3,23,Field Hospital,Low,2024-01-12 14:00:00,Injection Attack
+1280,70,134/87,96,102.3,24,Front Line,Moderate,2024-01-12 15:00:00,Data Manipulation
+1281,70,91/65,98,99.4,20,Front Line,Low,2024-01-12 16:00:00,Injection Attack
+1282,86,127/83,91,100.5,17,Front Line,High,2024-01-12 17:00:00,Quantum Attack
+1283,81,100/61,91,100.5,18,Front Line,Moderate,2024-01-12 18:00:00,Data Manipulation
+1284,83,112/89,95,98.1,24,Evacuation Point,High,2024-01-12 19:00:00,Data Manipulation
+1285,93,101/75,97,103.2,29,Field Hospital,High,2024-01-12 20:00:00,Eavesdropping
+1286,97,90/62,99,99.8,22,Field Hospital,High,2024-01-12 21:00:00,Eavesdropping
+1287,99,130/64,96,100.1,24,Field Hospital,Low,2024-01-12 22:00:00,Eavesdropping
+1288,118,102/60,97,99.8,16,Field Hospital,High,2024-01-12 23:00:00,Injection Attack
+1289,116,132/83,92,103.1,18,Field Hospital,High,2024-01-13 00:00:00,Injection Attack
+1290,95,118/75,97,103.5,19,Evacuation Point,Moderate,2024-01-13 01:00:00,Data Manipulation
+1291,115,138/61,99,99.4,27,Evacuation Point,Low,2024-01-13 02:00:00,Quantum Attack
+1292,93,110/66,91,97.1,13,Front Line,High,2024-01-13 03:00:00,Injection Attack
+1293,89,129/84,98,98.1,29,Evacuation Point,High,2024-01-13 04:00:00,Injection Attack
+1294,78,102/66,96,101.8,24,Field Hospital,Low,2024-01-13 05:00:00,Eavesdropping
+1295,91,116/89,92,100.8,26,Front Line,Low,2024-01-13 06:00:00,Eavesdropping
+1296,103,103/72,97,100.9,20,Field Hospital,Moderate,2024-01-13 07:00:00,Injection Attack
+1297,92,106/81,92,104.0,18,Field Hospital,Low,2024-01-13 08:00:00,Data Manipulation
+1298,62,131/86,97,101.2,12,Front Line,High,2024-01-13 09:00:00,Injection Attack
+1299,94,120/65,91,102.3,23,Front Line,High,2024-01-13 10:00:00,Eavesdropping
+1300,73,121/62,96,101.4,26,Front Line,Moderate,2024-01-13 11:00:00,Injection Attack
+1301,82,107/85,91,100.3,16,Field Hospital,Low,2024-01-13 12:00:00,Eavesdropping
+1302,105,91/80,90,100.3,23,Field Hospital,Low,2024-01-13 13:00:00,Eavesdropping
+1303,61,98/66,96,103.5,12,Front Line,Moderate,2024-01-13 14:00:00,Injection Attack
+1304,103,114/61,93,102.2,24,Evacuation Point,High,2024-01-13 15:00:00,Data Manipulation
+1305,88,103/88,97,100.3,12,Evacuation Point,Low,2024-01-13 16:00:00,Eavesdropping
+1306,82,104/64,95,102.1,29,Field Hospital,Moderate,2024-01-13 17:00:00,Quantum Attack
+1307,99,103/83,94,100.3,27,Evacuation Point,High,2024-01-13 18:00:00,Quantum Attack
+1308,80,138/82,93,98.4,24,Field Hospital,High,2024-01-13 19:00:00,Eavesdropping
+1309,64,109/73,99,97.9,17,Front Line,Moderate,2024-01-13 20:00:00,Injection Attack
+1310,60,122/62,98,98.2,18,Field Hospital,High,2024-01-13 21:00:00,Eavesdropping
+1311,99,126/78,90,98.1,17,Front Line,High,2024-01-13 22:00:00,Eavesdropping
+1312,110,135/68,98,98.6,22,Evacuation Point,Moderate,2024-01-13 23:00:00,Quantum Attack
+1313,70,91/64,99,103.9,24,Field Hospital,Moderate,2024-01-14 00:00:00,Quantum Attack
+1314,110,112/68,96,98.9,21,Field Hospital,High,2024-01-14 01:00:00,Quantum Attack
+1315,94,90/65,94,100.8,14,Field Hospital,High,2024-01-14 02:00:00,Data Manipulation
+1316,103,99/67,94,97.4,12,Front Line,Low,2024-01-14 03:00:00,Quantum Attack
+1317,102,128/86,90,103.9,23,Evacuation Point,Low,2024-01-14 04:00:00,Quantum Attack
+1318,78,125/62,90,98.8,13,Field Hospital,High,2024-01-14 05:00:00,Data Manipulation
+1319,102,122/77,96,97.4,17,Evacuation Point,Moderate,2024-01-14 06:00:00,Data Manipulation
+1320,107,134/84,98,98.7,28,Evacuation Point,Moderate,2024-01-14 07:00:00,Injection Attack
+1321,75,108/89,94,99.9,12,Evacuation Point,Low,2024-01-14 08:00:00,Data Manipulation
+1322,80,129/68,93,103.9,29,Field Hospital,Low,2024-01-14 09:00:00,Data Manipulation
+1323,69,132/82,94,97.2,25,Evacuation Point,Moderate,2024-01-14 10:00:00,Eavesdropping
+1324,95,91/75,95,101.5,29,Evacuation Point,Moderate,2024-01-14 11:00:00,Data Manipulation
+1325,109,91/88,93,103.4,16,Evacuation Point,Low,2024-01-14 12:00:00,Quantum Attack
+1326,99,95/72,90,102.3,20,Front Line,Moderate,2024-01-14 13:00:00,Data Manipulation
+1327,103,113/75,90,97.8,26,Front Line,Low,2024-01-14 14:00:00,Injection Attack
+1328,67,127/87,94,97.9,28,Field Hospital,High,2024-01-14 15:00:00,Eavesdropping
+1329,114,111/87,93,101.4,17,Evacuation Point,Moderate,2024-01-14 16:00:00,Injection Attack
+1330,72,135/79,93,102.8,14,Evacuation Point,Moderate,2024-01-14 17:00:00,Injection Attack
+1331,105,132/81,97,102.3,17,Evacuation Point,Low,2024-01-14 18:00:00,Quantum Attack
+1332,111,101/69,90,101.9,19,Front Line,Low,2024-01-14 19:00:00,Quantum Attack
+1333,109,111/69,99,99.7,28,Evacuation Point,High,2024-01-14 20:00:00,Eavesdropping
+1334,93,95/63,94,100.8,29,Evacuation Point,High,2024-01-14 21:00:00,Quantum Attack
+1335,87,120/70,99,99.9,29,Evacuation Point,Moderate,2024-01-14 22:00:00,Eavesdropping
+1336,115,121/80,99,100.5,20,Front Line,Moderate,2024-01-14 23:00:00,Eavesdropping
+1337,117,131/86,95,99.4,16,Field Hospital,Low,2024-01-15 00:00:00,Injection Attack
+1338,62,92/65,99,102.9,22,Field Hospital,Low,2024-01-15 01:00:00,Injection Attack
+1339,81,113/80,95,101.6,27,Front Line,High,2024-01-15 02:00:00,Injection Attack
+1340,118,111/81,96,101.8,20,Front Line,High,2024-01-15 03:00:00,Injection Attack
+1341,114,102/77,93,103.2,24,Field Hospital,Low,2024-01-15 04:00:00,Eavesdropping
+1342,100,113/82,95,99.1,20,Field Hospital,Low,2024-01-15 05:00:00,Injection Attack
+1343,107,133/64,95,103.3,29,Evacuation Point,Low,2024-01-15 06:00:00,Injection Attack
+1344,103,135/77,95,97.3,25,Field Hospital,Low,2024-01-15 07:00:00,Quantum Attack
+1345,77,137/70,96,102.4,13,Evacuation Point,Moderate,2024-01-15 08:00:00,Eavesdropping
+1346,73,115/85,92,98.4,28,Field Hospital,Low,2024-01-15 09:00:00,Eavesdropping
+1347,113,138/82,94,98.3,26,Field Hospital,Moderate,2024-01-15 10:00:00,Quantum Attack
+1348,101,139/67,99,99.9,14,Field Hospital,High,2024-01-15 11:00:00,Data Manipulation
+1349,79,122/65,98,99.1,27,Evacuation Point,High,2024-01-15 12:00:00,Eavesdropping
+1350,86,113/65,98,100.0,19,Evacuation Point,High,2024-01-15 13:00:00,Eavesdropping
+1351,62,108/67,93,103.6,19,Front Line,High,2024-01-15 14:00:00,Eavesdropping
+1352,105,123/79,96,98.7,21,Evacuation Point,Low,2024-01-15 15:00:00,Quantum Attack
+1353,105,114/60,99,97.8,13,Evacuation Point,Moderate,2024-01-15 16:00:00,Injection Attack
+1354,116,135/65,97,98.7,20,Front Line,High,2024-01-15 17:00:00,Eavesdropping
+1355,83,92/75,91,98.9,17,Evacuation Point,Low,2024-01-15 18:00:00,Injection Attack
+1356,103,118/76,98,99.7,12,Field Hospital,Low,2024-01-15 19:00:00,Injection Attack
+1357,115,99/84,99,100.6,21,Field Hospital,Moderate,2024-01-15 20:00:00,Eavesdropping
+1358,108,108/78,97,103.6,29,Front Line,High,2024-01-15 21:00:00,Eavesdropping
+1359,69,115/81,95,100.6,16,Evacuation Point,High,2024-01-15 22:00:00,Quantum Attack
+1360,107,127/81,90,99.5,25,Evacuation Point,Moderate,2024-01-15 23:00:00,Quantum Attack
+1361,96,138/83,97,103.0,12,Front Line,Low,2024-01-16 00:00:00,Data Manipulation
+1362,64,121/73,95,97.2,12,Field Hospital,Moderate,2024-01-16 01:00:00,Injection Attack
+1363,76,134/74,99,97.1,13,Evacuation Point,Low,2024-01-16 02:00:00,Quantum Attack
+1364,62,113/82,92,102.1,18,Field Hospital,High,2024-01-16 03:00:00,Data Manipulation
+1365,102,103/75,97,102.4,19,Field Hospital,Low,2024-01-16 04:00:00,Data Manipulation
+1366,61,131/88,95,102.1,22,Field Hospital,Low,2024-01-16 05:00:00,Quantum Attack
+1367,103,135/61,91,104.0,24,Evacuation Point,High,2024-01-16 06:00:00,Eavesdropping
+1368,86,138/77,97,97.6,19,Field Hospital,Moderate,2024-01-16 07:00:00,Eavesdropping
+1369,72,119/71,99,101.2,18,Evacuation Point,High,2024-01-16 08:00:00,Injection Attack
+1370,87,115/89,95,102.8,13,Front Line,Low,2024-01-16 09:00:00,Injection Attack
+1371,84,133/69,95,97.0,16,Front Line,High,2024-01-16 10:00:00,Eavesdropping
+1372,67,125/63,90,97.7,19,Front Line,Low,2024-01-16 11:00:00,Eavesdropping
+1373,61,112/74,96,101.0,23,Evacuation Point,High,2024-01-16 12:00:00,Quantum Attack
+1374,64,126/76,93,98.1,18,Evacuation Point,Moderate,2024-01-16 13:00:00,Data Manipulation
+1375,91,120/60,96,97.7,20,Evacuation Point,High,2024-01-16 14:00:00,Quantum Attack
+1376,73,133/79,98,97.7,20,Field Hospital,Low,2024-01-16 15:00:00,Eavesdropping
+1377,81,92/61,94,102.8,17,Field Hospital,Low,2024-01-16 16:00:00,Injection Attack
+1378,72,132/84,90,98.7,17,Field Hospital,High,2024-01-16 17:00:00,Data Manipulation
+1379,66,122/62,92,101.9,22,Evacuation Point,High,2024-01-16 18:00:00,Data Manipulation
+1380,69,117/82,91,97.0,15,Evacuation Point,High,2024-01-16 19:00:00,Eavesdropping
+1381,107,92/75,95,98.7,21,Evacuation Point,High,2024-01-16 20:00:00,Injection Attack
+1382,109,123/65,90,97.9,25,Front Line,High,2024-01-16 21:00:00,Quantum Attack
+1383,65,96/86,91,99.7,27,Field Hospital,Moderate,2024-01-16 22:00:00,Data Manipulation
+1384,86,107/76,94,103.4,22,Evacuation Point,Moderate,2024-01-16 23:00:00,Quantum Attack
+1385,82,91/80,91,102.4,17,Field Hospital,Moderate,2024-01-17 00:00:00,Quantum Attack
+1386,86,134/82,95,102.9,14,Evacuation Point,Moderate,2024-01-17 01:00:00,Data Manipulation
+1387,108,136/88,94,102.5,29,Evacuation Point,High,2024-01-17 02:00:00,Data Manipulation
+1388,103,131/76,94,99.5,26,Field Hospital,High,2024-01-17 03:00:00,Quantum Attack
+1389,113,117/61,93,100.0,22,Field Hospital,Low,2024-01-17 04:00:00,Eavesdropping
+1390,82,124/84,95,100.7,18,Front Line,High,2024-01-17 05:00:00,Data Manipulation
+1391,72,130/71,92,100.6,27,Field Hospital,Moderate,2024-01-17 06:00:00,Quantum Attack
+1392,83,120/74,92,97.4,26,Front Line,High,2024-01-17 07:00:00,Eavesdropping
+1393,114,108/87,98,103.6,22,Front Line,Low,2024-01-17 08:00:00,Eavesdropping
+1394,62,103/72,97,100.3,23,Front Line,Moderate,2024-01-17 09:00:00,Eavesdropping
+1395,63,113/63,94,99.5,16,Evacuation Point,Low,2024-01-17 10:00:00,Quantum Attack
+1396,71,139/71,94,101.1,24,Field Hospital,Low,2024-01-17 11:00:00,Injection Attack
+1397,60,102/60,95,100.9,26,Field Hospital,Moderate,2024-01-17 12:00:00,Data Manipulation
+1398,71,128/78,94,102.5,28,Field Hospital,Low,2024-01-17 13:00:00,Injection Attack
+1399,67,125/63,93,100.1,15,Evacuation Point,Moderate,2024-01-17 14:00:00,Data Manipulation
+1400,105,121/73,96,99.2,16,Evacuation Point,High,2024-01-17 15:00:00,Eavesdropping
+1401,110,105/81,96,97.7,13,Front Line,Low,2024-01-17 16:00:00,Eavesdropping
+1402,106,102/89,93,98.9,12,Evacuation Point,Moderate,2024-01-17 17:00:00,Eavesdropping
+1403,109,130/72,92,99.1,19,Front Line,Moderate,2024-01-17 18:00:00,Eavesdropping
+1404,104,106/71,97,98.4,29,Front Line,Moderate,2024-01-17 19:00:00,Injection Attack
+1405,115,131/81,98,97.5,25,Front Line,Moderate,2024-01-17 20:00:00,Quantum Attack
+1406,101,135/85,91,97.9,24,Front Line,High,2024-01-17 21:00:00,Injection Attack
+1407,61,132/84,90,103.6,24,Front Line,Low,2024-01-17 22:00:00,Eavesdropping
+1408,83,125/87,97,99.0,27,Front Line,Moderate,2024-01-17 23:00:00,Quantum Attack
+1409,65,134/86,93,98.0,27,Front Line,High,2024-01-18 00:00:00,Injection Attack
+1410,93,121/87,99,101.3,16,Field Hospital,High,2024-01-18 01:00:00,Injection Attack
+1411,103,112/82,96,99.1,12,Front Line,High,2024-01-18 02:00:00,Eavesdropping
+1412,118,96/72,95,101.9,28,Field Hospital,Moderate,2024-01-18 03:00:00,Quantum Attack
+1413,115,101/89,98,99.0,16,Front Line,Moderate,2024-01-18 04:00:00,Injection Attack
+1414,66,106/79,90,103.7,17,Field Hospital,Low,2024-01-18 05:00:00,Eavesdropping
+1415,105,138/70,97,99.2,15,Field Hospital,Low,2024-01-18 06:00:00,Injection Attack
+1416,78,91/85,96,100.4,20,Front Line,High,2024-01-18 07:00:00,Eavesdropping
+1417,109,131/88,91,97.7,22,Evacuation Point,Moderate,2024-01-18 08:00:00,Injection Attack
+1418,93,121/89,97,98.5,26,Front Line,High,2024-01-18 09:00:00,Injection Attack
+1419,108,106/88,91,103.9,24,Evacuation Point,Moderate,2024-01-18 10:00:00,Data Manipulation
+1420,112,116/72,99,100.6,14,Field Hospital,Low,2024-01-18 11:00:00,Injection Attack
+1421,84,119/69,94,101.3,14,Front Line,Low,2024-01-18 12:00:00,Data Manipulation
+1422,85,105/77,99,99.6,29,Field Hospital,Low,2024-01-18 13:00:00,Data Manipulation
+1423,77,116/81,90,101.6,12,Front Line,Low,2024-01-18 14:00:00,Eavesdropping
+1424,104,133/78,93,97.9,28,Front Line,High,2024-01-18 15:00:00,Quantum Attack
+1425,98,91/66,97,101.0,14,Front Line,Moderate,2024-01-18 16:00:00,Data Manipulation
+1426,110,124/63,95,98.5,13,Field Hospital,Low,2024-01-18 17:00:00,Injection Attack
+1427,99,96/84,96,99.9,17,Front Line,Moderate,2024-01-18 18:00:00,Data Manipulation
+1428,91,115/84,97,100.0,16,Front Line,Moderate,2024-01-18 19:00:00,Injection Attack
+1429,102,136/87,98,97.1,19,Evacuation Point,High,2024-01-18 20:00:00,Injection Attack
+1430,74,132/71,96,100.5,21,Front Line,High,2024-01-18 21:00:00,Data Manipulation
+1431,115,91/81,94,100.1,25,Field Hospital,Moderate,2024-01-18 22:00:00,Quantum Attack
+1432,92,118/63,96,101.8,19,Evacuation Point,Moderate,2024-01-18 23:00:00,Data Manipulation
+1433,86,104/69,91,97.9,15,Field Hospital,High,2024-01-19 00:00:00,Data Manipulation
+1434,85,127/60,99,101.4,26,Front Line,Moderate,2024-01-19 01:00:00,Data Manipulation
+1435,90,100/60,92,99.5,14,Front Line,Low,2024-01-19 02:00:00,Quantum Attack
+1436,112,124/79,96,103.4,19,Front Line,High,2024-01-19 03:00:00,Data Manipulation
+1437,93,94/65,97,97.2,16,Front Line,High,2024-01-19 04:00:00,Quantum Attack
+1438,115,105/64,94,103.7,25,Front Line,High,2024-01-19 05:00:00,Eavesdropping
+1439,100,100/81,92,99.9,21,Front Line,High,2024-01-19 06:00:00,Data Manipulation
+1440,86,99/69,94,100.4,22,Front Line,Moderate,2024-01-19 07:00:00,Eavesdropping
+1441,72,123/64,97,98.3,26,Evacuation Point,Moderate,2024-01-19 08:00:00,Eavesdropping
+1442,64,116/64,95,103.0,12,Front Line,Moderate,2024-01-19 09:00:00,Injection Attack
+1443,66,111/83,95,101.0,18,Front Line,High,2024-01-19 10:00:00,Quantum Attack
+1444,81,133/72,99,99.3,24,Front Line,Moderate,2024-01-19 11:00:00,Quantum Attack
+1445,106,116/62,97,99.1,17,Front Line,Moderate,2024-01-19 12:00:00,Data Manipulation
+1446,84,118/75,93,97.0,23,Field Hospital,High,2024-01-19 13:00:00,Data Manipulation
+1447,107,121/73,99,97.5,16,Evacuation Point,Moderate,2024-01-19 14:00:00,Eavesdropping
+1448,88,95/81,95,100.0,15,Evacuation Point,Low,2024-01-19 15:00:00,Data Manipulation
+1449,63,92/89,90,101.4,21,Front Line,Moderate,2024-01-19 16:00:00,Injection Attack
+1450,112,117/67,97,99.7,21,Evacuation Point,Moderate,2024-01-19 17:00:00,Eavesdropping
+1451,107,92/84,93,97.9,24,Front Line,Moderate,2024-01-19 18:00:00,Quantum Attack
+1452,73,95/68,99,97.4,21,Front Line,High,2024-01-19 19:00:00,Injection Attack
+1453,70,119/88,90,99.8,14,Evacuation Point,Moderate,2024-01-19 20:00:00,Injection Attack
+1454,78,124/62,93,99.9,16,Front Line,Low,2024-01-19 21:00:00,Injection Attack
+1455,85,138/67,90,97.1,24,Field Hospital,High,2024-01-19 22:00:00,Injection Attack
+1456,60,121/62,92,102.0,29,Field Hospital,High,2024-01-19 23:00:00,Data Manipulation
+1457,106,102/63,96,102.5,19,Front Line,Low,2024-01-20 00:00:00,Eavesdropping
+1458,114,133/87,98,99.0,19,Field Hospital,High,2024-01-20 01:00:00,Data Manipulation
+1459,71,135/63,94,101.3,25,Field Hospital,Moderate,2024-01-20 02:00:00,Injection Attack
+1460,82,98/75,94,97.1,28,Front Line,High,2024-01-20 03:00:00,Injection Attack
+1461,63,134/63,90,101.6,27,Field Hospital,Low,2024-01-20 04:00:00,Data Manipulation
+1462,98,129/82,96,100.8,19,Evacuation Point,High,2024-01-20 05:00:00,Data Manipulation
+1463,102,101/60,99,97.4,17,Evacuation Point,Low,2024-01-20 06:00:00,Injection Attack
+1464,108,105/82,95,100.1,12,Front Line,Moderate,2024-01-20 07:00:00,Injection Attack
+1465,68,111/88,94,103.0,25,Evacuation Point,High,2024-01-20 08:00:00,Quantum Attack
+1466,60,123/81,97,97.9,23,Front Line,Moderate,2024-01-20 09:00:00,Injection Attack
+1467,108,110/76,98,97.3,16,Front Line,High,2024-01-20 10:00:00,Injection Attack
+1468,115,105/71,98,102.2,28,Field Hospital,High,2024-01-20 11:00:00,Eavesdropping
+1469,86,90/71,95,104.0,13,Evacuation Point,Moderate,2024-01-20 12:00:00,Injection Attack
+1470,104,135/74,96,99.1,14,Evacuation Point,Moderate,2024-01-20 13:00:00,Data Manipulation
+1471,91,136/83,90,103.3,20,Field Hospital,Low,2024-01-20 14:00:00,Quantum Attack
+1472,71,127/88,95,97.7,23,Field Hospital,Low,2024-01-20 15:00:00,Eavesdropping
+1473,99,105/60,98,98.5,27,Evacuation Point,Low,2024-01-20 16:00:00,Data Manipulation
+1474,116,101/88,90,98.9,23,Evacuation Point,Low,2024-01-20 17:00:00,Eavesdropping
+1475,61,131/64,97,97.6,12,Field Hospital,Moderate,2024-01-20 18:00:00,Data Manipulation
+1476,80,96/82,94,103.6,12,Front Line,Low,2024-01-20 19:00:00,Quantum Attack
+1477,72,104/61,99,100.5,22,Evacuation Point,Low,2024-01-20 20:00:00,Data Manipulation
+1478,98,126/74,92,100.6,12,Front Line,High,2024-01-20 21:00:00,Injection Attack
+1479,89,111/62,97,103.6,25,Evacuation Point,Moderate,2024-01-20 22:00:00,Injection Attack
+1480,99,91/80,97,99.3,16,Field Hospital,Moderate,2024-01-20 23:00:00,Quantum Attack
+1481,67,130/63,95,99.7,22,Field Hospital,Moderate,2024-01-21 00:00:00,Data Manipulation
+1482,106,127/85,94,97.8,29,Front Line,Moderate,2024-01-21 01:00:00,Data Manipulation
+1483,63,133/67,90,102.0,13,Field Hospital,Low,2024-01-21 02:00:00,Quantum Attack
+1484,92,122/87,96,100.4,19,Front Line,Moderate,2024-01-21 03:00:00,Eavesdropping
+1485,105,136/63,93,101.4,19,Front Line,Low,2024-01-21 04:00:00,Injection Attack
+1486,100,124/75,95,100.5,12,Front Line,Low,2024-01-21 05:00:00,Eavesdropping
+1487,119,99/80,93,98.6,26,Evacuation Point,Low,2024-01-21 06:00:00,Injection Attack
+1488,118,98/73,97,100.4,19,Field Hospital,Moderate,2024-01-21 07:00:00,Eavesdropping
+1489,63,109/85,94,101.5,28,Evacuation Point,High,2024-01-21 08:00:00,Eavesdropping
+1490,67,107/87,94,97.9,19,Evacuation Point,Moderate,2024-01-21 09:00:00,Eavesdropping
+1491,104,118/74,95,97.7,27,Front Line,Low,2024-01-21 10:00:00,Injection Attack
+1492,77,92/88,94,103.2,13,Front Line,High,2024-01-21 11:00:00,Quantum Attack
+1493,105,136/83,92,100.9,26,Evacuation Point,Low,2024-01-21 12:00:00,Data Manipulation
+1494,107,107/66,92,99.9,16,Field Hospital,High,2024-01-21 13:00:00,Quantum Attack
+1495,77,126/87,91,102.8,21,Front Line,Moderate,2024-01-21 14:00:00,Quantum Attack
+1496,95,91/65,98,102.7,27,Evacuation Point,High,2024-01-21 15:00:00,Quantum Attack
+1497,61,120/80,93,103.6,17,Evacuation Point,Low,2024-01-21 16:00:00,Quantum Attack
+1498,82,111/68,92,101.2,24,Front Line,Moderate,2024-01-21 17:00:00,Data Manipulation
+1499,110,121/82,95,103.1,24,Evacuation Point,Low,2024-01-21 18:00:00,Data Manipulation
+1500,94,139/66,90,99.3,28,Field Hospital,Low,2024-01-21 19:00:00,Quantum Attack
